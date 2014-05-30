@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<crossroads_entrance_exit_points>
+  <_><id>0</id>
+    <PointX>"396.00006"</PointX>
+    <PointY>"356.50003"</PointY>
+    <Label>label0</Label></_>
+  <_><id>1</id>
+    <PointX>"537.9621"</PointX>
+    <PointY>"354.96292"</PointY>
+    <Label>label1</Label></_>
+  <_><id>2</id>
+    <PointX>"2.5"</PointX>
+    <PointY>"191"</PointY>
+    <Label>label2</Label></_>
+  <_><id>3</id>
+    <PointX>"636.5"</PointX>
+    <PointY>"198.5"</PointY>
+    <Label>label3</Label></_>
+  <_><id>4</id>
+    <PointX>"2.5"</PointX>
+    <PointY>"102"</PointY>
+    <Label>label4</Label></_>
+  <_><id>5</id>
+    <PointX>"636.5"</PointX>
+    <PointY>"21"</PointY>
+    <Label>label5</Label></_>
+  <_><id>6</id>
+    <PointX>"589.5"</PointX>
+    <PointY>"2.5"</PointY>
+    <Label>label6</Label></_></crossroads_entrance_exit_points>
+</opencv_storage>
